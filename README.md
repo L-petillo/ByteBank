@@ -4,7 +4,7 @@ projeto inicial do ByteBnak
 
 | 🪧 Vitrine.Dev |  L_petillo   |
 | -------------  | --- |
-| ✨ Nome        | Mentalista 
+| ✨ Nome        | ByteBank
 | 🏷️ Tecnologias | JavaScript, HTML, CSS
 
 
