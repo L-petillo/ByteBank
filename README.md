@@ -34,7 +34,7 @@ projeto inicial do ByteBnak
 
 ### ✨ Imagem do Projeto
 
-![Imagem__Projeto](https://i.pinimg.com/564x/48/2f/48/482f481a0fecb23fed6b5fec8f9851e3.jpg)
+![Imagem__Projeto](https://live.staticflickr.com/65535/52246567020_8e2c6d2c4a_b.jpg)
 
 
 ## 🏷️ Tecnologias usadas nessa projeto
